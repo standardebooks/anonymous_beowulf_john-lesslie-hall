@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 590">
-	<title>The titlepage for the Standard Ebooks edition of Beowulf, by Unknown. Translated by John Lesslie Hall</title>
+	<title>The titlepage for the Standard Ebooks edition of Beowulf, by Anonymous. Translated by John Lesslie Hall</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -28,7 +28,7 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">BEOWULF</text>
-	<text class="author" x="700" y="290">UNKNOWN</text>
+	<text class="author" x="700" y="290">ANONYMOUS</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
 	<text class="contributor" x="700" y="540">JOHN LESSLIE HALL</text>
 </svg>
