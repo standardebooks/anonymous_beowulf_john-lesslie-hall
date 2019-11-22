@@ -20,3 +20,8 @@ span[epub|type~="subtitle"]{
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
