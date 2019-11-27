@@ -50,7 +50,7 @@
 		<dc:description id="description">A hero is hired to kill a monster that has been plaguing the land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Horothgar, King of the Danes, invites warriors from neighboring kingdoms to his great mead hall with the hopes of one of them will solve his problem. A monster named Grendel has been terrorizing the land and killing his people. One of the warriors who answers this call is our epic hero, Beowulf.&lt;/p&gt;
-			&lt;p&gt;The Beowulf Manuscript, also know as the Nowell Codex, dates back to the late 10 century or early 11th century and is the only copy in existance. In 1731, the manuscript was damaged from the Cotton Library fire, making several lines in the poem unreadable. Today, with the help of modern technology, advanced techniques are being used not only to preserve the document from further degredation but also to reveal missing letters. All this is done to ensure that this epic story will continue to live on for many more generations.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Beowulf&lt;/i&gt; Manuscript, also know as the Nowell Codex, dates back to the late 10 century or early 11th century and is the only copy in existance. In 1731, the manuscript was damaged from the Cotton Library fire, making several lines in the poem unreadable. Today, with the help of modern technology, advanced techniques are being used not only to preserve the document from further degredation but also to reveal missing letters. All this is done to ensure that this epic story will continue to live on for many more generations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16328</dc:source>
