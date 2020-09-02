@@ -10,11 +10,6 @@ footer{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
