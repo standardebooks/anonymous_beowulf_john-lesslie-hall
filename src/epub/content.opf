@@ -61,6 +61,7 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Knud Baade</dc:contributor>
 		<meta property="file-as" refines="#artist">Baade, Knud</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Knud_Baade</meta>
