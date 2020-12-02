@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of Beowulf, by Anonymous. Translated by John Lesslie Hall</title>
+	<title>The cover for the Standard Ebooks edition of Beowulf. Translated by John Lesslie Hall</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -23,6 +23,5 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1825">BEOWULF</text>
-	<text class="author" x="700" y="1925">ANONYMOUS</text>
+	<text class="title" x="700" y="1875">BEOWULF</text>
 </svg>
