@@ -39,6 +39,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008102391</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">42</meta>
 		<dc:description id="description">A hero is hired to kill a monster that has been plaguing the land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Horothgar, King of the Danes, invites warriors from neighboring kingdoms to his great mead hall with the hope that one of them will solve his problem. A monster named Grendel has been terrorizing the land and killing his people. One of the warriors who answers this call is our epic hero, Beowulf.&lt;/p&gt;
