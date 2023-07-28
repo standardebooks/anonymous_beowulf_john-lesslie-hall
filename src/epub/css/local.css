@@ -29,3 +29,7 @@ span.elision{
 	margin: .5em;
 	margin-left: 3em;
 }
+
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
